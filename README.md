@@ -2,7 +2,7 @@
 RevCord is a discord.com selfbot, it has some features that can help you in day 2 day tasks and help to make your work easier.
 
 # How To Run?
-```
+```diff
 + Go To Config.Json File And Fill All The Required Information Asked.
 + Then Run The Start.bat File.
 + It'll Check For The Required Modules ( If Not Download )
