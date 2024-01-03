@@ -13,7 +13,8 @@ RevCord is a discord.com selfbot, it has some features that can help you in day 
 The Required Modules Will Be Installed From The Bat File But Still If You're Encountring Any Error With With The Modules.
 Use The Below Command.
 - pip install [module_name]
-( #Replace module_name with the module you're getting error while running the code )
+( Replace module_name with the module you're getting error while running the code )
+```
 # Command List: ( 40 )
 ```
 ban, randomip, paytm, truth, hentai, help, adminservers, logout, tinyurl, nickallrandom, vouch, fampay, avatar, checkvanity, cum, clone, getbal, ltc, qr, ipinfo, clear, dare, kick, nickall, userinfo, received, ping, boosts, spam, omni, blowjob, leavegroups, restart, ascii, paypal, github, pussy, calc, ltcprice, block
