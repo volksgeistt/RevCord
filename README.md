@@ -21,9 +21,12 @@ ban, randomip, paytm, truth, hentai, help, adminservers, logout, tinyurl, nickal
 ```
 
 # Version Stats 💻
+```diff
 - Python 3.11 Or Higher ( Required )
 - Discord.py 1.7.3
 - Discord.py-Self 1.9.2
-- RevCord Version: 0.1
+- RevCord Version: V1
+```
+# 10x Star -> RevCord V2
 
 
