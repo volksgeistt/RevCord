@@ -165,11 +165,11 @@ async def block(ctx, user: discord.User):
 @client.command()
 @auth()
 async def clone(ctx):
-  channelthings = [ctx.channel.category, ctx.channel.position]
+  tckitn = [ctx.channel.category, ctx.channel.position]
   await ctx.channel.clone()
   await ctx.channel.delete()
-  nukedchannel = channelthings[0].text_channels[-1]
-  await nukedchannel.edit(position=channelthings[1])
+  nukedchannel = tckitn[0].text_channels[-1]
+  await nukedchannel.edit(position=tckitn[1])
   await nukedchannel.send(f"- Channel Cloned")
 
 @client.command(aliases=["asci"])
