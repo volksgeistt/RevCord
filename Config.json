@@ -1,0 +1,17 @@
+{
+    "TOKEN": "",
+    "PREFIX": ".",
+    "TWITCH_URL": "https://www.twitch.tv/revcord",
+    "VOUCH_USER_ID": "",
+    "VOUCH_SERVER_LINK": "",
+    "ACTIVITY_NAME": "RevCord",
+    "LTC_ADDY": "",
+    "FAMPAY": "",
+    "OMNICARD": "",
+    "PAYTM": "",
+    "UPI_QR": "",
+    "PAYPAL_ID": "",
+    "CRYPTO_PAY_PROOF_MSG": "**Please Share Uncropped Screenshot Or Blockchain ID For Payment Confirmation.**",
+    "UPI_PAY_PROOF_MSG": "**Please Share Uncropped Screenshot For Payment Confirmation.**",
+    "AUTHORIZED_USERS": [""]
+}   
